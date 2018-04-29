@@ -4,6 +4,7 @@ title: MoSadie's projects
 # Projects #
 
 ### These are the projects that I am currently working on: ###
+- [Practice FMS](https://github.com/MoSadie/PracticeFMS)
 - [Robot11](https://github.com/MoSadie/Robot11)
 - [RobotLib](https://github.com/MoSadie/RobotLib)
 - [ExponentialPower](https://github.com/MoSadie/ExponentialPower)
