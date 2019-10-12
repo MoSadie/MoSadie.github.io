@@ -8,6 +8,8 @@ title: MoSadie's projects
 - [ExponentialPower](https://github.com/MoSadie/ExponentialPower)
 
 ### These are projects that I've "finished" working on: ###
+- [PlexAPI-Java](https://github.com/MoSadie/PlexAPI-Java)
+- [JPlexBot](https://github.com/MoSadie/JPlexBot)
 - [Practice FMS](https://github.com/MoSadie/PracticeFMS)
 - [Robot11](https://github.com/MoSadie/Robot11)
 - [RobotLib](https://github.com/MoSadie/RobotLib)
