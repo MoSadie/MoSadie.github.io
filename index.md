@@ -4,6 +4,7 @@ title: MoSadie's projects
 # Projects #
 
 ### These are the projects that I am currently working on: ###
+- [AwayFromAuction](https://github.com/MoSadie/AwayFromAuction)
 - [BlocKey](https://github.com/MoSadie/BlocKey)
 - [ExponentialPower](https://github.com/MoSadie/ExponentialPower)
 
