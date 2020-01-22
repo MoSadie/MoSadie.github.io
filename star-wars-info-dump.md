@@ -3,6 +3,8 @@ title: "Star Wars: Galaxy's Edge Info Dump"
 layout: default
 ---
 
+{{ page.title }}
+
 ## General Information
 
 Lots of info [on the Disneyland website](https://disneyland.disney.go.com/destinations/disneyland/star-wars-galaxys-edge/). You can also look up more details on anything below on that site.
