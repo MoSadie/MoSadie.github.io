@@ -1,6 +1,5 @@
 ---
-title: Star Wars: Galaxy's Edge Info Dump
-layout: default
+title: Star Wars\: Galaxy's Edge Info Dump
 ---
 
 ## General Information
