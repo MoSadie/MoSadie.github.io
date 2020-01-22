@@ -1,8 +1,6 @@
 ---
-title: Star Wars: Galaxy's Edge Info Dump
+title: Galaxy's Edge Info Dump
 ---
-
-# Star Wars: Galaxy's Edge Info Dump
 
 ## General Information
 
