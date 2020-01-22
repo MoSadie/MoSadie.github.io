@@ -73,38 +73,38 @@ Kat Saka's Kettle
 ### Breakfast Options
 
 Docking Bay 7 Food and Cargo:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/breakfast/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/breakfast/)
 
 Oga's Cantina:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/breakfast/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/breakfast/)
 - RESERVATIONS STRONGLY SUGGESTED (not a lot of walk-in slots available)
 
 Ronto Roasters:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/ronto-roasters/menus/breakfast/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ronto-roasters/menus/breakfast/)
 
 ### Lunch Options
 
 Docking Bay 7 Food and Cargo:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/lunch-and-dinner/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/lunch-and-dinner/)
 
 Oga's Cantina:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/lunch/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/lunch/)
 - RESERVATIONS STRONGLY SUGGESTED (not a lot of walk-in slots available)
 
 Ronto Roasters:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/ronto-roasters/menus/lunch-and-dinner/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ronto-roasters/menus/lunch-and-dinner/)
 
 ### Dinner Options
 
 Docking Bay 7 Food and Cargo:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/lunch-and-dinner/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/lunch-and-dinner/)
 
 Oga's Cantina:
-- https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/dinner/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/dinner/)
 - RESERVATIONS STRONGLY SUGGESTED (not a lot of walk-in slots available)
 
 Ronto Roasters:
-- Menu: https://disneyland.disney.go.com/dining/disneyland/ronto-roasters/menus/lunch-and-dinner/
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ronto-roasters/menus/lunch-and-dinner/)
 
 ## Shopping
 
