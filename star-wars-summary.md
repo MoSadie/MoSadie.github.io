@@ -1,5 +1,5 @@
 ---
-title: "Star Wars: Galaxy's Edge Info Dump"
+title: "Star Wars: Galaxy's Edge Summary"
 layout: titledpage
 ---
 
