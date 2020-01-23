@@ -76,7 +76,7 @@ Docking Bay 7 Food and Cargo:
 - Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/breakfast/)
 
 Oga's Cantina:
-- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/breakfast/)
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/breakfast/) (Mostly drinks)
 - RESERVATIONS STRONGLY SUGGESTED (not a lot of walk-in slots available)
 
 Ronto Roasters:
@@ -88,7 +88,7 @@ Docking Bay 7 Food and Cargo:
 - Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/lunch-and-dinner/)
 
 Oga's Cantina:
-- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/lunch/)
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/lunch/) (Mostly drinks)
 - RESERVATIONS STRONGLY SUGGESTED (not a lot of walk-in slots available)
 
 Ronto Roasters:
@@ -100,7 +100,7 @@ Docking Bay 7 Food and Cargo:
 - Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/docking-bay-7-food-and-cargo/menus/lunch-and-dinner/)
 
 Oga's Cantina:
-- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/dinner/)
+- Menu: [Here](https://disneyland.disney.go.com/dining/disneyland/ogas-cantina/menus/dinner/) (Mostly drinks)
 - RESERVATIONS STRONGLY SUGGESTED (not a lot of walk-in slots available)
 
 Ronto Roasters:
