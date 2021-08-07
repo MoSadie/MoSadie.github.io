@@ -4,9 +4,9 @@ layout: titledpage
 ---
 ## These are the personal projects that I am currently working on:
 - Websites:
-  - [TWABL;DR](https://mosadie.github.io/TWABL-DR/)
-  - [Berners Love You](https://mosadie.github.io/Berners-Love-You)
-  - [Destiny Sherpa Guide](https://mosadie.github.io/DSG)
+  - [TWABL;DR](https://twabldr.mosadie.com)
+  - [Berners Love You](https://berners.mosadie.com)
+  - [Destiny Sherpa Guide](https://dsg.mosadie.com)
 - Minecraft Mods:
   - [EffectMC](https://github.com/MoSadie/EffectMC)
   - [ExponentialPower](https://github.com/MoSadie/ExponentialPower)
