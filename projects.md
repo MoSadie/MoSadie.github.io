@@ -35,7 +35,7 @@ layout: titledpage
   - [OpenScorer](https://github.com/MoSadie/OpenScorer)
 
 ## These are projects that I've currently abandoned, but might work on again someday:
-- [AwayFromAuction](https://github.com/MoSadie/AwayFromAuction) (just got busy)
+- [AwayFromAuction](https://github.com/MoSadie/AwayFromAuction)
 - [AwayFromAuction Cache](https://github.com/MoSadie/AwayFromAuction-Cache)
 - [BlocKey](https://github.com/MoSadie/BlocKey)
 - [FileTroll](https://github.com/MoSadie/FileTroll)
