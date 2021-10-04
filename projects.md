@@ -3,13 +3,13 @@ title: Projects
 layout: titledpage
 ---
 ## These are the personal projects that I am currently working on:
+- Minecraft Mods:
+  - [EffectMC](https://github.com/MoSadie/EffectMC)
+  - [ExponentialPower](https://github.com/MoSadie/ExponentialPower)
 - Websites:
   - [TWABL;DR](https://twabldr.mosadie.com)
   - [Berners Love You](https://berners.mosadie.com)
   - [Destiny Sherpa Guide](https://dsg.mosadie.com)
-- Minecraft Mods:
-  - [EffectMC](https://github.com/MoSadie/EffectMC)
-  - [ExponentialPower](https://github.com/MoSadie/ExponentialPower)
 
 ## These are projects that I've "finished" working on:
 - Websites:
