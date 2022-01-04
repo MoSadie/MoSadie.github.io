@@ -1,6 +1,6 @@
 ---
 title: Social Links
-description: These are the only accounts I can verify to be me.
+description: The one-stop shop for all accounts that are verifiably me.
 ---
 
 - GitHub: [@MoSadie](https://github.com/MoSadie)
