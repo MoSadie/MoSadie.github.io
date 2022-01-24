@@ -7,7 +7,7 @@ Welcome to the hidden page on my site where I gather clips of streamers attempti
 
 Usually while they're streaming if they don't know me they pronounce it as "Mo Sad ie" which I find personally funny. (For refernce I pronounce it as "Mo Sadie")
 
-No shame to them of course, they're reading my name blind outloud.
+No shame to them of course, they're reading my name blind outloud. It's hard, I've tried.
 
 Sorted by streamer:
 
