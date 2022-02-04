@@ -9,7 +9,7 @@ title: MoSadie
 # Favorite Projects (that I worked on)
 
 - [EffectMC](https://github.com/MoSadie/EffectMC): A Minecraft mod and Elgato Stream Deck plugin that allows special effects to occur in-game with the push of a button.  For example, a user can mimic a text chat, seamlessly join a server, and play any sound. Also supports custom triggers using HTML requests.
-- [Berners Love You](https://berners.mosadie.com): Often shortened to `Berners`. During COVID-19, I recognized a social/emotional and stress-relieving tool designed for a family member. From this project, I learned how to dynamically embed content from social media.
+- [Berners Love You](https://berners.mosadie.com): Often shortened to `Berners`. During COVID-19, I recognized a social/emotional need and designed a stress-relieving tool for a family member. From this project, I learned how to dynamically embed content from social media.
 - [ExponentialPower](https://github.com/MoSadie/ExponentialPower): This Minecraft mod generates energy, through an exponential formula, that can be stored and used by other mods. From this mod, I learned how to interact with third-party APIs.
 - [PracticeFMS](https://github.com/MoSadie/PracticeFMS): I designed and created a tool for my [FRC](https://www.firstinspires.org/robotics/frc) team allowing them to emulate a competition field management system. The team practiced driving the robot in a realistic manner; including connecting the driving computers and realistic match timers.
 
