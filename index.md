@@ -1,12 +1,13 @@
 ---
 title: MoSadie
 ---
-# Social Links
+# [Social Links](socials.md)
 
 - GitHub: [@MoSadie](https://github.com/MoSadie)
 - Twitch: [MoSadie](https://twitch.tv/MoSadie) (You can see my schedule [here](https://www.twitch.tv/mosadie/schedule))
 - YouTube: [MoSadie](https://www.youtube.com/channel/UC85hbnlElKYsXyA9M0oLy8A)
 - Discord: MoSadie#3073 ([Server Invite Link](https://discord.gg/gQHJAYw4xD))
+
 
 # Favorite Projects (that I worked on)
 
@@ -23,3 +24,4 @@ title: MoSadie
 ## You can see a full list of projects [here](projects).
 
 Last updated: {{ "now" | date_to_string: "ordinal", "US"}}
+<a rel="me" style="display:none" href="https://mastodon.social/@mosadie">@MoSadie@mastodon.social</a>
