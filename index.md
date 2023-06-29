@@ -5,7 +5,7 @@ title: MoSadie
 
 - GitHub: [@MoSadie](https://github.com/MoSadie)
 - Twitch: [MoSadie](https://twitch.tv/MoSadie) (You can see my schedule [here](https://www.twitch.tv/mosadie/schedule))
-- YouTube: [MoSadie](https://www.youtube.com/channel/UC85hbnlElKYsXyA9M0oLy8A)
+- YouTube: [@MoSadie](https://www.youtube.com/@MoSadie) and [@MoVODie](https://www.youtube.com/@MoVODie)
 - Discord: MoSadie#3073 ([Server Invite Link](https://discord.gg/gQHJAYw4xD))
 
 
